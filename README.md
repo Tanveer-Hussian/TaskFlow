@@ -1,16 +1,38 @@
-# task_flow
+# 🚀 TaskFlow – Smart To-Do & Reminder App
 
-A new Flutter project.
+TaskFlow is a simple but efficient task-management app built with **Flutter**, designed to help users stay organized, plan their day, and never miss important tasks. It supports **local storage**, **smart reminders**, a clean UI, and smooth interactions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Task Management
+- Add, edit, delete daily tasks  
+- Mark tasks as completed  
+- Auto-sort tasks based on completion  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔔 Smart Notifications
+- Schedule reminders for specific dates & times  
+- Local notification support  
+- Background scheduling  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 💾 Local Data Storage
+- Uses **Hive** for fast, persistent offline storage  
+- CRUD operations optimized for performance  
+
+### 🎨 Modern & Clean UI
+- Google Fonts  
+- Slidable actions  
+- Smooth animations  
+- Consistent visual hierarchy  
+
+---
+
+## 🧠 Tech Stack
+- **Flutter (Dart)**
+- **GetX** — state management & dependency injection  
+- **Hive** — lightweight NoSQL local database  
+- **Flutter Local Notifications** — reminder scheduling  
+- **Google Fonts**
+- **Slidable widgets**
+
