@@ -34,5 +34,5 @@ TaskFlow is a simple but efficient task-management app built with **Flutter**, d
 - **Hive** — lightweight NoSQL local database  
 - **Flutter Local Notifications** — reminder scheduling  
 - **Google Fonts**
-- **Slidable widgets**
+- **Slidable widget**
 
